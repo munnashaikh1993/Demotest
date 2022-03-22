@@ -11,7 +11,7 @@ public class DemoCode {
 		WebDriverManager.chromedriver().setup();
 		WebDriver driver=new ChromeDriver();
 		driver.get("http://demowebshop.tricentis.com");
-
+System.out.println("salman");
 	}
 
 }
